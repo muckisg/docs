@@ -24,6 +24,13 @@ On the R2 module the GPIO0 pin is broken out to [a small pad to the right of the
 
 If you have 4CH R2 v1.0 hardware, the GPIO0 is available as L1 switch - you don't need to solder additional cable to the PCB. Just push it during powering on for 3 seconds and release. 
 
+### Sonoff 4CH Pro R3
+With revision 3 it is very easy to enter flash mode by pressing S1 when powering io pins.
+Board Info:
+Sonoff 4CH Pro R3
+V1.0
+2020-04-13
+
 ## Solving Sonoff 4CH Pro programing issues
 
 If you have problems to program the 4CH Pro, you might find below tips useful:
